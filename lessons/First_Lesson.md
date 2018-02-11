@@ -1,5 +1,7 @@
 # First Lesson
 
+---
+
 ## What is JS, why it was invented ?
 
 JavaScript, is a high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language.
@@ -12,7 +14,7 @@ JavaScript, is a high-level, dynamic, weakly typed, prototype-based, multi-parad
 * Backend
 * Mobile, Desktop O_o
 
-## JS version.
+## JS versions.
 
 * ECMAScript 1
 * ECMAScript 2
