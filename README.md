@@ -1,9 +1,9 @@
-# frontend-course
-Front-end course (AngularJS, Angular)
+# Mosby Front-end Course
+AngularJS, Angular
 
 ---
 
-Course plan:
+## Course plan:
 
  * First lesson _(theory)_
  * Checking skills, preparing JS knowlage _(theory)_
