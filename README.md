@@ -1,4 +1,4 @@
-# Mosby Front-end Course
+# Front-end Course
 AngularJS, Angular
 
 ---
