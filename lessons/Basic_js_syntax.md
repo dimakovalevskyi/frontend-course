@@ -7,11 +7,11 @@
 ```
 // var (es5)
 var a = 'Hello';
-var b = 1, c = 0;
+var b = 1, c = 0, d;
 
 // const, let (es6)
 const A = 'Hello';
-let b = 1, c = 0;
+let b = 1, c = d = 0, e;
 ```
 
 ## Types, typeof
@@ -32,3 +32,4 @@ typeof {} // "object"
 typeof null // "object"  (1)
 typeof function(){} // "function"  (2)
 ```
+## Basic Operators
