@@ -1,5 +1,5 @@
 # Front-end Course
-AngularJS, Angular
+AngularJS
 
 ---
 
