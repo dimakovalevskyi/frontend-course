@@ -19,8 +19,8 @@ let b = 1, c = d = 0, e;
   * `number` - any number: `1`, `-11`, `1.3486`, `Infinity`, `NaN`
   * `string` - line: `"Hello, world"`, `""`, `"123"`
   * `boolean` - logic type: `true` or `false`
-  * `null` - it`s nothing, bitch: `null`
-  * `undefined` - it`s nothing, for now: `undefined`
+  * `null` - it's nothing, bitch: `null`
+  * `undefined` - it's nothing, for now: `undefined`
   * `object` - magic type: `{}`, `{a: 1, b: 'Moto'}`
   
  ```
@@ -40,12 +40,12 @@ typeof function(){} // "function"  (2)
  * `++` / `--` - increment/decrement
  * `+=` / `-=` / `/=` / `*=` / `%=` short math operators
 
- ## Boolean Operators
+## Boolean Operators
  
  * `>` / `<` / `>=` / `<=`/ `==` / `!=` / `===` / `!==` - comparison operators
  * `&&` / `||` - logical operators
  
- ## Types comparison
+## Types comparison
  
 ```
 alert( '2' > 1 ); // true
