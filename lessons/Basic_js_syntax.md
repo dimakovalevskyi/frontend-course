@@ -14,7 +14,7 @@ const A = 'Hello';
 let b = 1, c = d = 0, e;
 ```
 
-## Types, typeof
+## Duck typing, types, typeof
 
   * `number` - any number: `1`, `-11`, `1.3486`, `Infinity`, `NaN`
   * `string` - line: `"Hello, world"`, `""`, `"123"`
