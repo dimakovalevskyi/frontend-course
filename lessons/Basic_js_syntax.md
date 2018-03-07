@@ -33,6 +33,35 @@ typeof null // "object"  (1)
 typeof function(){} // "function"  (2)
 ```
 
+## Arrays
+
+```
+var a = [];
+
+a.push(1);
+a.push(2);
+a.push(3);
+
+a; // [1, 2, 3]
+a[0]; // 1
+a[2]; // 3
+```
+
+## Objects
+
+```
+var a = {};
+
+a.a = 1;
+a.b = 2;
+
+a; // {a: 1, b: 2}
+
+delete a.b;
+
+a; // {a: 1}
+```
+
 ## Basic Operators
 
  * `+` / `-` / `/` / `*` / `%` - math operators
@@ -107,10 +136,23 @@ function getSumm(a, b) {
   return a + b;
 }
 
-alert(getSumm(1 + 3)); // 3
+alert(getSumm(1, 3)); // 3
 ```
 
-## Code example (authorization)
+## Loops
+
+```
+var str = "";
+
+for (var i = 0; i < 9; i++) {
+  str = str + i;
+}
+
+console.log(str);
+// expected output: "012345678"
+```
+
+## Code example (authorization, max value in array)
 
 ## Homework
 
