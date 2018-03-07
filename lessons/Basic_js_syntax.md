@@ -37,6 +37,7 @@ typeof function(){} // "function"  (2)
 
 ```
 var a = [];
+var b = [true, 2, '1'];
 
 a.push(1);
 a.push(2);
@@ -56,6 +57,9 @@ a.a = 1;
 a.b = 2;
 
 a; // {a: 1, b: 2}
+a.a; // 1
+a['a']; // 1
+a.b; // 2
 
 delete a.b;
 
