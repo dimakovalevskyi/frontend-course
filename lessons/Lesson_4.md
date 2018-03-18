@@ -28,7 +28,7 @@ application/
 	└───README.md
 ```
  
- * install [Ruby](https://rubyinstaller.org/) and [sass](https://sass-scss.ru/install/) (otional)
+ * install [Ruby](https://github.com/oneclick/rubyinstaller2/releases) and [sass](https://sass-scss.ru/install/) (otional)
  * install grunt and grunt-plugins:
    * grunt
    * grunt-contrib-concat
