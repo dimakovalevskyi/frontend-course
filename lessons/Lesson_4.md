@@ -21,6 +21,7 @@ application/
 	│       ├───assets/
 	│       └───init.js
 	├───views/
+	├───temp/
 	├───.gitignore
 	├───index.html
 	├───LICENSE
