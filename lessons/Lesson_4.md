@@ -17,7 +17,7 @@ application/
 	│       ├───assets/
 	│       └───main.scss
 	├───js/
-	│   └───scr/
+	│   └───src/
 	│       ├───assets/
 	│       └───init.js
 	├───views/
