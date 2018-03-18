@@ -34,7 +34,6 @@ application/
    * grunt-contrib-concat
    * grunt-contrib-sass
    * grunt-contrib-cssmin
-   * grunt-autoprefixer
    * grunt-contrib-uglify-es
    * grunt-contrib-watch
  * download lib's files (angularjs, Bootstrap, materialize, any other)
