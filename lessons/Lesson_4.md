@@ -23,7 +23,7 @@
  * final commit
  * configure gh-pages
  
- ## Project structure:
+## Project structure:
  
 ```
 ───application/
@@ -50,22 +50,22 @@
 <!DOCTYPE html>
 <html ng-app="demo" lang="en">
 <head>
-	<title>Demo application</title>
+    <title>Demo application</title>
 
-	<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body ng-controller="mainController">
 	
-	<div class="container">
-		<h1>{{ heading }}</h1>
-		<hr>
-		<h2>{{ heading2 }}</h2>
-	</div>
+    <div class="container">
+        <h1>\{\{ heading \}\}</h1>
+        <hr>
+        <h2>\{\{ heading2 \}\}</h2>
+    </div>
 
-	<script src="js/scripts.js"></script>
+    <script src="js/scripts.js"></script>
 </body>
 </html>
 ```
@@ -151,7 +151,7 @@ module.exports = function(grunt) {
 angular.module('demo', []);
 
 angular.module('demo').controller('mainController', ['$scope', function($scope) {
-	$scope.heading = 'Hello, world!';
-	$scope.heading2 = 'My first angularJS application works!!!!!';
+    $scope.heading = 'Hello, world!';
+    $scope.heading2 = 'My first angularJS application works!!!!!';
 }]);
 ```
