@@ -2,17 +2,19 @@
 
 ## Steps:
 
- * two words about git
+ * two words about git:
    * repo
+   * branch
    * commit
    * push
    * pull
-   * branch
  * create empty repo for this awesome application (with .gitignore, Licence and readme files)
  * clone repo
  * initialize npm
  * first commit
- * prepare structure for project 
+ * prepare structure for project
+ * download lib's files (angularjs, Bootstrap, materialize, any other)
+ * commit now
  * install [Ruby](https://github.com/oneclick/rubyinstaller2/releases) and [sass](https://sass-scss.ru/install/) (otional)
  * install grunt and grunt-plugins:
    * grunt
@@ -20,7 +22,6 @@
    * grunt-contrib-cssmin
    * grunt-contrib-uglify-es
    * grunt-contrib-watch
- * download lib's files (angularjs, Bootstrap, materialize, any other)
  * create empty `Gruntfile.js`
  * configurate every grunt plugin
  * what is `.map` file ?
