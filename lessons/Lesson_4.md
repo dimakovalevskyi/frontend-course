@@ -3,6 +3,11 @@
 ## Steps:
 
  * two words about git
+   * repo
+   * commit
+   * push
+   * pull
+   * branch
  * create empty repo for this awesome application (with .gitignore, Licence and readme files)
  * clone repo
  * initialize npm
