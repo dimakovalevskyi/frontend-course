@@ -9,7 +9,7 @@ AngularJS
  * Checking skills, preparing JS knowlage _(theory)_ [syntax](./lessons/Basic_js_syntax)
  * Git, Node.js ecosystem, npm, bundlers _(theory/lab)_ [show](./lessons/Lesson_3)
  * Project configuration, "Hello, world" app _(lab)_ [show](./lessons/Lesson_4)
- * AngularJS components, structure of AngularJS app, basic directives _(lab)_
+ * AngularJS basics _(lab)_ [show](./lessons/Lesson_5)
  * Creating AngularJs services and directives _(lab)_
  * Js advanced (async code, promises) _(theory)_
  * Add some ajax now _(lab)_
