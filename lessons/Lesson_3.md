@@ -1,12 +1,29 @@
-# Node.js ecosystem, npm, bundlers
+# Git, Node.js ecosystem, npm, bundlers
 
----
+
+## Two words about git
+
+   * repo
+   * branch
+   * commit
+   * push
+   * pull
+   
+### Create empty repo for application *
+
+ * .gitignore
+ * Licence
+ * README.md
+ 
+### Clone repo *
 
 ## What is Node.js ?
 
+## Ecosystem Node.js for frontend developers
+
 ## What is npm ?
 
-### package.json and package-lock.json
+## package.json and package-lock.json
 
 Basic structure of `package.json` file:
 
@@ -36,14 +53,14 @@ Basic structure of `package.json` file:
 
 ```
 
-### npm commands
+## npm commands
 
  * `npm init`
  * `npm install` or `npm i`
  * `npm install --flags pckg-name`
  * `npm unstall --flags pckg-name`
-
-## Ecosystem Node.js for frontend developers
+ 
+### Initialize npm in our project *
 
 ## Bundlers
 
@@ -51,3 +68,5 @@ Basic structure of `package.json` file:
  * [Gulp](https://gulpjs.com/)
  * [Webpack](https://webpack.js.org/)
  * [Parcel](https://parceljs.org/)
+ 
+ ### Install packages for our application *
