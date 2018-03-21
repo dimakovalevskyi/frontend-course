@@ -2,16 +2,6 @@
 
 ## Steps:
 
- * two words about git:
-   * repo
-   * branch
-   * commit
-   * push
-   * pull
- * create empty repo for this awesome application (with .gitignore, Licence and readme files)
- * clone repo
- * initialize npm
- * first commit
  * prepare structure for project
  * download lib's files (angularjs, Bootstrap, materialize, any other)
  * commit now
@@ -42,7 +32,6 @@
    │   └───src/
    │       ├───assets/
    │       └───init.js
-   ├───views/
    ├───.gitignore
    ├───index.html
    ├───LICENSE
