@@ -70,3 +70,9 @@ Basic structure of `package.json` file:
  * [Parcel](https://parceljs.org/)
  
  ### Install packages for our application *
+
+   * grunt
+   * grunt-contrib-sass
+   * grunt-contrib-cssmin
+   * grunt-contrib-uglify-es
+   * grunt-contrib-watch
