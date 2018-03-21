@@ -2,16 +2,10 @@
 
 ## Steps:
 
+ * be sure you have [Ruby](https://github.com/oneclick/rubyinstaller2/releases) and [sass](https://sass-scss.ru/install/) (otional)
  * prepare structure for project
  * download lib's files (angularjs, Bootstrap, materialize, any other)
  * commit now
- * install [Ruby](https://github.com/oneclick/rubyinstaller2/releases) and [sass](https://sass-scss.ru/install/) (otional)
- * install grunt and grunt-plugins:
-   * grunt
-   * grunt-contrib-sass
-   * grunt-contrib-cssmin
-   * grunt-contrib-uglify-es
-   * grunt-contrib-watch
  * create empty `Gruntfile.js`
  * configurate every grunt plugin
  * what is `.map` file ?
