@@ -6,8 +6,8 @@ AngularJS
 ## Course plan:
 
  * First lesson _(theory)_ [show](./lessons/First_Lesson)
- * Checking skills, preparing JS knowlage _(theory/lab)_ [syntax](./lessons/Basic_js_syntax)
- * Git, Node.js ecosystem, npm, bundlers _(theory)_ [show](./lessons/Lesson_3)
+ * Checking skills, preparing JS knowlage _(theory)_ [syntax](./lessons/Basic_js_syntax)
+ * Git, Node.js ecosystem, npm, bundlers _(theory/lab)_ [show](./lessons/Lesson_3)
  * Project configuration, "Hello, world" app _(lab)_ [show](./lessons/Lesson_4)
  * AngularJS components, structure of AngularJS app, basic directives _(lab)_
  * Creating AngularJs services and directives _(lab)_
