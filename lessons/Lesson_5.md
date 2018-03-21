@@ -91,9 +91,9 @@ angular.module('demo').controller('mainController', ['$scope', function($scope) 
 
 
 <div class="container" ng-controller="mainController">
-    <h1>{{ heading }}</h1>
+    <h1>{ { heading } }</h1>
     <hr>
-    <h2>{{ heading2 }}</h2>
+    <h2>{ { heading2 } }</h2>
 </div>
 ```
 
@@ -121,8 +121,8 @@ angular.module('demo').controller('mainController', ['$scope', function($scope) 
  * `ng-model`
  * `ng-bind`
 
- ## Example 
+## Example 
 
  Buttons generator
 
- Useful [link](https://habrahabr.ru/post/190342/)
+## Useful [link](https://habrahabr.ru/post/190342/)
