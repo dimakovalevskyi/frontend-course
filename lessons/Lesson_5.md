@@ -112,14 +112,14 @@ angular.module('demo').controller('mainController', ['$scope', function($scope) 
  
 ## Basic AngularJS directives
 
+ * `ng-bind`
+ * `ng-model`
+ * `ng-repeat`
  * `ng-init`
  * `ng-show`
  * `ng-hide`
  * `ng-if`
- * `ng-repeat`
  * `ng-class`
- * `ng-model`
- * `ng-bind`
 
 ## Example 
 
