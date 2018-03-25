@@ -10,7 +10,7 @@ AngularJS
  * Git, Node.js ecosystem, npm, bundlers _(theory/lab)_ [show](./lessons/Lesson_3)
  * Project configuration, "Hello, world" app _(lab)_ [show](./lessons/Lesson_4)
  * AngularJS basics _(lab)_ [show](./lessons/Lesson_5)
- * Creating AngularJs services and directives _(lab)_
+ * Creating AngularJs services and directives _(lab)_ _(just write code)_
  * Js advanced (async code, promises) _(theory)_
  * Add some ajax now _(lab)_
  * Node.js app, client-server SPA _(lab)_
