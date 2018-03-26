@@ -5,6 +5,8 @@
 ## Variables
 
 ```
+'use strict';
+
 // var (es5)
 var a = 'Hello';
 var b = 1, c = 0, d;
