@@ -11,6 +11,6 @@ AngularJS
  * Project configuration, "Hello, world" app _(lab)_ [show](./lessons/Lesson_4)
  * AngularJS basics _(lab)_ [show](./lessons/Lesson_5)
  * Our first controller + ajax _(lab)_ _(just write code)_
- * Add first service _(lab)_
+ * Add first service, directive _(lab)_
  * Node.js app, client-server SPA _(lab)_
  * Angular ecosysten: Typescript, Angular principles, angular cli _(theory/lab)_
